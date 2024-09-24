@@ -13,7 +13,6 @@ This project demonstrates how to use the Azure OpenAI service to generate text c
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
 - [Example Prompt](#example-prompt)
-- [License](#license)
 
 ## Prerequisites
 
